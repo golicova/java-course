@@ -16,7 +16,7 @@ public class Main {
     }
 
     public static void main (String[] args) {
-        double salary = salaryCalculator(40,15, 8);
+        double salary = salaryCalculator(40,75, 1);
         System.out.println(salary);
     }
 }
